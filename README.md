@@ -1,2 +1,2 @@
 # SmartContactManager
-SmartContactManager Project
+SmartContactManager Project created using spring boot framework and thymeleaf.
